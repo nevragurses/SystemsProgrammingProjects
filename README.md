@@ -1,3 +1,3 @@
 # SytemsProgrammingProjects
 
-This repository includes all Systems Programming course projects.
+This repository includes Systems Programming course projects.
